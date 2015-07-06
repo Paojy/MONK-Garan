@@ -1,0 +1,8 @@
+﻿## Interface: 60200
+## Title: |cffF2D118武僧|r Garan
+## Version: 6.00
+## Author: Paopao001
+## SavedVariablesPerCharacter: Garan_DB
+
+local.lua
+core.lua
